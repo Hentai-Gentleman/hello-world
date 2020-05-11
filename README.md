@@ -1,18 +1,18 @@
 # hello-world
-My name is John Johnson
+My name is Yon Yonson
 
-And I come from London
+I live in Wisconsin
 
-I work in a pub near the station, boom boom
+I work in a lumber yard there.
 
-The people I meet
+The people I meet as
 
-When I walk down the street say
+I walk down the street
 
-“Hello!”
+they say “Hello!”
 
-And I say “Hello!”
+I say “Hello!”
 
-And they say “What’s your name?”
+they say “What’s your name?”
 
-And I say “My name is John Johnson”
+and I say “My name is Yon Yonson”
