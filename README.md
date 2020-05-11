@@ -15,4 +15,4 @@ I say “Hello!”
 
 they say “What’s your name?”
 
-I say “My name is Yon Yonson”
+and I say “My name is Yon Yonson”
